@@ -1,0 +1,27 @@
+{
+    "name": "neo-package",
+    "version": "1.0.0",
+    "description": "A package contains my modules.",
+    "type": "module",
+    "main": "./index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Neodevils/neo-package.git"
+    },
+    "keywords": [
+        "es6",
+        "modules",
+        "package",
+        "npm",
+        "javascript"
+    ],
+    "author": "Neodevils",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Neodevils/neo-package/issues"
+    },
+    "homepage": "https://github.com/Neodevils/neo-package#readme"
+}
