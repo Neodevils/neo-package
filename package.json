@@ -23,5 +23,8 @@
     "bugs": {
         "url": "https://github.com/Neodevils/neo-package/issues"
     },
-    "homepage": "https://github.com/Neodevils/neo-package#readme"
+    "homepage": "https://github.com/Neodevils/neo-package#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    }
 }
